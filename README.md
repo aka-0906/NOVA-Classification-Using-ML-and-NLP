@@ -11,6 +11,8 @@ The project investigates how structured nutritional information and unstructured
 ## Related Publication:
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&citation_for_view=qyth_0QAAAAJ:w2UhwfzvF0QC
 
+https://arxiv.org/pdf/2412.17217?
+
 ## Key Contributions
 
 * Advanced feature engineering using nutritional and textual food attributes
