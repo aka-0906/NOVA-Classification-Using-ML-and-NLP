@@ -8,9 +8,8 @@ This project was developed under the guidance of **Prof. Ganesh Bagler (IIIT-Del
 
 The project investigates how structured nutritional information and unstructured textual data can be leveraged to improve automated classification of food products into NOVA processing categories.
 
-**Related Publication:**
+## Related Publication:
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&citation_for_view=qyth_0QAAAAJ:w2UhwfzvF0QC
----
 
 ## Key Contributions
 
