@@ -130,14 +130,20 @@ Detailed performance metrics, confusion matrices, and model outputs are availabl
 
 ```text
 .
-├── data/
-├── notebooks/
-│   ├── 01_Data_Preprocessing.ipynb
-│   ├── 02_Feature_Engineering.ipynb
-│   ├── 03_Machine_Learning_Models.ipynb
-│   └── 04_NLP_Pipeline.ipynb
-├── results/
-├── models/
+data/
+├── numerical/
+└── textual/
+notebooks/
+├── ML_Pipeline/
+│   ├── 01_EDA.ipynb
+│   ├── 02_Feature_Selection_and_Training.ipynb
+│   └── 03_Stratified_KFold_Validation.ipynb
+│
+└── NLP_Pipeline/
+    ├── 04_RoBERTa_Embeddings.ipynb
+    ├── 05_DistilBERT_Embeddings.ipynb
+    └── 06_GPT2_Embeddings.ipynb
+
 ├── README.md
 └── requirements.txt
 ```
